@@ -5,8 +5,16 @@
  
  const firebaseConfig = {
  //YOUR COPIED FIREBASE PART SHOULD BE HERE
- //WATCH THIS VIDEO TO LEARN WHAT TO PUT HERE   https://youtu.be/_Xczf06n6x0
- };
+const firebaseConfig = {
+  apiKey: "AIzaSyC67J15a8V1xBe_lrkSam843LyVKSlIlVM",
+  authDomain: "login-egiagan.firebaseapp.com",
+  databaseURL: "https://login-egiagan-default-rtdb.firebaseio.com",
+  projectId: "login-egiagan",
+  storageBucket: "login-egiagan.firebasestorage.app",
+  messagingSenderId: "1091425406651",
+  appId: "1:1091425406651:web:ec35230a23cf429816e39e",
+  measurementId: "G-3SF0Q270V3"
+};
 
  // Initialize Firebase
  const app = initializeApp(firebaseConfig);

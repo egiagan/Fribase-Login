@@ -6,12 +6,13 @@
  const firebaseConfig = {
  //YOUR COPIED FIREBASE PART SHOULD BE HERE
 const firebaseConfig = {
-  apiKey: "AIzaSyC67J15a8V1xBe_lrkSam843LyVKSlIlVM",
-  authDomain: "login-egiagan.firebaseapp.com",
-  projectId: "login-egiagan",
-  storageBucket: "login-egiagan.firebasestorage.app",
-  messagingSenderId: "1091425406651",
-  appId: "1:1091425406651:web:ec35230a23cf429816e39e"
+  apiKey: "AIzaSyDAlth1sxiP-S3r3fVDXhwadVVnEvpdO6s",
+  authDomain: "login-egi-agan.firebaseapp.com",
+  databaseURL: "https://login-egi-agan-default-rtdb.firebaseio.com",
+  projectId: "login-egi-agan",
+  storageBucket: "login-egi-agan.firebasestorage.app",
+  messagingSenderId: "395059466114",
+  appId: "1:395059466114:web:5c6b0621e9739df6b5c99b"
 };
 
  // Initialize Firebase

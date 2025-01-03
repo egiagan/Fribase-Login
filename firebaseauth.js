@@ -8,7 +8,6 @@
 const firebaseConfig = {
   apiKey: "AIzaSyC67J15a8V1xBe_lrkSam843LyVKSlIlVM",
   authDomain: "login-egiagan.firebaseapp.com",
-  databaseURL: "https://login-egiagan-default-rtdb.firebaseio.com",
   projectId: "login-egiagan",
   storageBucket: "login-egiagan.firebasestorage.app",
   messagingSenderId: "1091425406651",

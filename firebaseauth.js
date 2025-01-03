@@ -12,8 +12,7 @@ const firebaseConfig = {
   projectId: "login-egiagan",
   storageBucket: "login-egiagan.firebasestorage.app",
   messagingSenderId: "1091425406651",
-  appId: "1:1091425406651:web:ec35230a23cf429816e39e",
-  measurementId: "G-3SF0Q270V3"
+  appId: "1:1091425406651:web:ec35230a23cf429816e39e"
 };
 
  // Initialize Firebase
